@@ -1,0 +1,14 @@
+- Create playlist button need to be added
+- Need to display which sorting factor is currently in use
+- search page
+- main popup menu
+- on long-press the tile structure need to be changed and bottom navbar should popup
+
+
+Phase 1 - Alpha_I
+- Core BackEnd Functionalities
+    + Play/Pause/Seek/SkiptoNext/SkiptoPrev/Delete/Share/View Track Info/Shuffle/Sort/
+      Search the available list of songs on that device
+    + Manage Playlists
+    + Manage Favourites
+    + Organize Albums and Artists Groups
